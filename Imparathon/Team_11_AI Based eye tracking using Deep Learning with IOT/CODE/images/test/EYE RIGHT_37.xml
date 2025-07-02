@@ -1,0 +1,38 @@
+<annotation>
+	<folder>right</folder>
+	<filename>EYE RIGHT_37.jpg</filename>
+	<path>C:\Users\balav\OneDrive\Dokumen\Desktop\New folder\right\EYE RIGHT_37.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1201</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EYE RIGHT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>464</xmin>
+			<ymin>404</ymin>
+			<xmax>933</xmax>
+			<ymax>793</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>EYE RIGHT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>974</xmin>
+			<ymin>400</ymin>
+			<xmax>1430</xmax>
+			<ymax>818</ymax>
+		</bndbox>
+	</object>
+</annotation>

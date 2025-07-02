@@ -1,0 +1,38 @@
+<annotation>
+	<folder>right</folder>
+	<filename>EYE RIGHT_58.jpg</filename>
+	<path>D:\Team_11_AI Based eye tracking using Deep Learning with IOT\CODE\images\mistakes\right\EYE RIGHT_58.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3123</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EYE RIGHT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>410</xmin>
+			<ymin>1429</ymin>
+			<xmax>1518</xmax>
+			<ymax>2673</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>EYE RIGHT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1686</xmin>
+			<ymin>1465</ymin>
+			<xmax>3318</xmax>
+			<ymax>2685</ymax>
+		</bndbox>
+	</object>
+</annotation>

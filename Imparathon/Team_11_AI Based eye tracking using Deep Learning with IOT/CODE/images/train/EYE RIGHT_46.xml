@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>EYE RIGHT_46.jpg</filename>
+	<path>D:\HARAN FOLDER\ORIGINAL WHEEL CHAIR	PROJECT\CODE\images\train\EYE RIGHT_46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EYE RIGHT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>170</xmin>
+			<ymin>280</ymin>
+			<xmax>334</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>EYE RIGHT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>568</xmin>
+			<ymin>288</ymin>
+			<xmax>724</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

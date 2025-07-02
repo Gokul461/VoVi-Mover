@@ -1,0 +1,38 @@
+<annotation>
+	<folder>down</folder>
+	<filename>EYE DOWN_65.jpg</filename>
+	<path>C:\Users\balav\OneDrive\Dokumen\Desktop\New folder\down\EYE DOWN_65.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4624</width>
+		<height>3472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EYE DOWN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1282</xmin>
+			<ymin>877</ymin>
+			<xmax>2682</xmax>
+			<ymax>1849</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>EYE DOWN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3164</xmin>
+			<ymin>881</ymin>
+			<xmax>4209</xmax>
+			<ymax>1831</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>EYE DOWN_9.jpg</filename>
+	<path>D:\HARAN FOLDER\ORIGINAL WHEEL CHAIR	PROJECT\CODE\images\train\EYE DOWN_9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EYE DOWN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>160</xmin>
+			<ymin>163</ymin>
+			<xmax>257</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>EYE DOWN</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>501</xmin>
+			<ymin>195</ymin>
+			<xmax>598</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

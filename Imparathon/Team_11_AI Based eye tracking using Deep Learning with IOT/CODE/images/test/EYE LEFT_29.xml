@@ -1,0 +1,38 @@
+<annotation>
+	<folder>left</folder>
+	<filename>EYE LEFT_29.jpg</filename>
+	<path>C:\Users\balav\OneDrive\Dokumen\Desktop\New folder\left\EYE LEFT_29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EYE LEFT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>303</ymin>
+			<xmax>537</xmax>
+			<ymax>734</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>EYE LEFT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>628</xmin>
+			<ymin>302</ymin>
+			<xmax>1169</xmax>
+			<ymax>786</ymax>
+		</bndbox>
+	</object>
+</annotation>

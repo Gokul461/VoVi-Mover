@@ -1,0 +1,9 @@
+javascript features:
+
+~interpreted language
+~v-8 engine in chrome js engine / in server side use node js to run js
+~static / dynamic type 
+~asynchronuos programming
+~Event driven programming
+~objectb based langauge not fully object oridented language
+

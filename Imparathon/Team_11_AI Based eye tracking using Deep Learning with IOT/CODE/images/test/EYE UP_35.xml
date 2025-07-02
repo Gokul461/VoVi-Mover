@@ -1,0 +1,38 @@
+<annotation>
+	<folder>up</folder>
+	<filename>EYE UP_35.jpg</filename>
+	<path>C:\Users\balav\OneDrive\Dokumen\Desktop\New folder\up\EYE UP_35.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1040</width>
+		<height>570</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EYE UP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>172</ymin>
+			<xmax>522</xmax>
+			<ymax>446</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>EYE UP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>562</xmin>
+			<ymin>176</ymin>
+			<xmax>858</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

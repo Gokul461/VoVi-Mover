@@ -1,0 +1,5 @@
+tensorflow>=2.14.0
+tensorflow-object-detection-api==0.1.1
+gTTS>=2.3.0
+pyserial>=3.5
+pandas>=2.0.0

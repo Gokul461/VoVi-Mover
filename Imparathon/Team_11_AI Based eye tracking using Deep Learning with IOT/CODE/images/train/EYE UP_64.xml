@@ -1,0 +1,38 @@
+<annotation>
+	<folder>up</folder>
+	<filename>EYE UP_64.jpg</filename>
+	<path>D:\Team_11_AI Based eye tracking using Deep Learning with IOT\CODE\images\mistakes\up\EYE UP_64.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4624</width>
+		<height>3472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EYE UP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>864</xmin>
+			<ymin>1613</ymin>
+			<xmax>2368</xmax>
+			<ymax>2968</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>EYE UP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2891</xmin>
+			<ymin>1559</ymin>
+			<xmax>4350</xmax>
+			<ymax>2968</ymax>
+		</bndbox>
+	</object>
+</annotation>

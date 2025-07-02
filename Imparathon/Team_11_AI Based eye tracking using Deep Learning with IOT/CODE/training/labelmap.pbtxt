@@ -1,0 +1,17 @@
+item {
+  id: 1
+  name: 'EYE DOWN'
+}
+
+item {
+  id: 2
+  name: 'EYE LEFT'
+}
+item {
+  id: 3
+  name: 'EYE RIGHT'
+}
+item {
+  id: 4
+  name: 'EYE UP'
+}
